@@ -10,7 +10,6 @@ import org.springframework.stereotype.Component;
 @SpringBootApplication
 @EnableJpaRepositories
 @EntityScan
-@ComponentScan
 public class Demo1Application {
 
     public static void main(String[] args) {
